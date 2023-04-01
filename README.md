@@ -6,7 +6,7 @@
   </h3>
 </div>
 
-<h2>🕵Sobre Mi</h2>
+🕵Sobre Mi:
 - 🔭 Actualmente Sigo Desarrollando Proyectos de Manera autodidacta.
 - 🌱 Actualmente estoy aprendiendo Javascript y C++
 - 💬 Como 
@@ -16,6 +16,7 @@
 
 <div aling = "left">
     <h2>Lenguajes y Herramientas</h2>
+  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="icon" 
     height="40" width="40">
 
