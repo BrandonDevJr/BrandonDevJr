@@ -6,7 +6,7 @@
   </h3>
 </div>
 
-
+<h2>🕵Sobre Mi</h2>
 - 🔭 Actualmente Sigo Desarrollando Proyectos de Manera autodidacta.
 - 🌱 Actualmente estoy aprendiendo Javascript y C++
 - 💬 Como 
@@ -16,6 +16,21 @@
 
 <div aling = "left">
     <h2>Lenguajes y Herramientas</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html icon" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="icon" 
+    height="40" width="40">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="icon" 
+    height="40" width="40">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="icon" 
+    height="40" width="40">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="icon" 
+    height="40" width="40">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="icon" 
+    height="40" width="40">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="icon" 
     height="40" width="40">
 </div>
