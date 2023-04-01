@@ -8,7 +8,7 @@
 
 🕵Sobre Mi:
 - 🔭 Actualmente Sigo Desarrollando Proyectos de Manera autodidacta.
-- 🌱 Actualmente estoy aprendiendo Javascript y C++
+- 🌱 Estoy aprendiendo Javascript / C++ / React 
 - 😄 Programador FullStack en Cuerpo de Junior
 - 📫 Como contactarme: brandonstevenvera@gmail.com
 
