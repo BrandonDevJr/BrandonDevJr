@@ -1,4 +1,4 @@
-<div class="contenedor" aling="center">
+<div class="contenedor" align="center"
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300">
   <h1>Bienvenido! Mi Nombre es Brandon</h1>
   <h3>Actualmente soy estudiante de programacion radicado en Argentina, Proximo desarrollador Full stack
