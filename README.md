@@ -21,5 +21,16 @@
         height="40" width="40">
         <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg alt="icon css" 
         height="40" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="icon" 
+        height="40" width="40">
+
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="icon" 
+        height="40" width="40">
+
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="icon" 
+        height="40" width="40">
+
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="icon" 
+        height="40" width="40">
     </div>
 </div>
