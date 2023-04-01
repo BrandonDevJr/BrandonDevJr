@@ -1,5 +1,4 @@
-<div class="contenedor"
-  <img src="https://github.com/sergeche/emmet-sublime">
+<div class="contenedor" align="center"
   <h1>Bienvenido! Mi Nombre es Brandon</h1>
   <h3>Actualmente soy estudiante de programacion radicado en Argentina, Proximo desarrollador Full stack
     En este perfil encontraran proyectos creador por mi con diferentes tecnologias.
