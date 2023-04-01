@@ -27,5 +27,7 @@
         height="40" width="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="icon" 
         height="40" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="icon" 
+        height="40" width="40">
     </div>
 </div>
