@@ -17,8 +17,9 @@
 <div aling = "left">
     <h2>Lenguajes y Herramientas</h2>
     <div>
-        
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="icon css" 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="icon" 
+        height="40" width="40">
+        <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg alt="icon css" 
         height="40" width="40">
     </div>
 </div>
