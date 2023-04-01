@@ -1,23 +1,17 @@
 <div class="contenedor" aling="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300">
   <h1>Bienvenido! Mi Nombre es Brandon</h1>
   <h3>Actualmente soy estudiante de programacion radicado en Argentina, Proximo desarrollador Full stack
-    En este perfil encontraran proyectos creador por mi con diferentes
+    En este perfil encontraran proyectos creador por mi con diferentes tecnologias.
   </h3>
 </div>
 
 
-<!--
-**ZetaCo18/ZetaCo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Actualmente Sigo Desarrollando Proyectos de Manera autodidacta.
+- 🌱 Actualmente estoy aprendiendo Javascript y C++
+- 💬 Como 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
