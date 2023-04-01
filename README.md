@@ -5,13 +5,13 @@
     En este perfil encontraran proyectos creador por mi con diferentes tecnologias.
   </h3>
 </div>
-
-🕵Sobre Mi:
+---
+##🕵Sobre Mi:
 - 🔭 Actualmente Sigo Desarrollando Proyectos de Manera autodidacta.
 - 🌱 Actualmente estoy aprendiendo Javascript y C++
 - 😄 Programador FullStack en Cuerpo de Junior
 - 📫 Como contactarme: brandonstevenvera@gmail.com
-
+---
 <div aling = "left">
     <h2>Lenguajes y Herramientas</h2>
     <div>
