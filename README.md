@@ -1,5 +1,11 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
-### Hi there 👋
+<div class="contenedor" aling="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200">
+  <h1>Bienvenido! Mi Nombre es Brandon</h1>
+  <h3>Actualmente soy estudiante de programacion radicado en Argentina, Proximo desarrollador Full stack
+    En este perfil encontraran proyectos creador por mi con diferentes
+  </h3>
+</div>
+
 
 <!--
 **ZetaCo18/ZetaCo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
