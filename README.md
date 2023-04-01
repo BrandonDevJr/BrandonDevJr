@@ -29,6 +29,3 @@
         height="40" width="40">
     </div>
 </div>
-
-Mi Status
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrandonDEv&theme=dark)](https://git.io/streak-stats)
