@@ -11,7 +11,6 @@
 - 🌱 Actualmente estoy aprendiendo Javascript y C++
 - 😄 Programador FullStack en Cuerpo de Junior
 - 📫 Como contactarme: brandonstevenvera@gmail.com
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin"height="20" width="20"> linkedin
 
 <div aling = "left">
     <h2>Lenguajes y Herramientas</h2>
